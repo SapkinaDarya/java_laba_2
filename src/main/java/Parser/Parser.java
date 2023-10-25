@@ -132,7 +132,7 @@ public class Parser {
      * Method StrPars converts standard notation of expression into reversed polish notation
      *
      * @param input - String to convert
-     * @return output - Result of converting to RPN
+     * @return output - Result of converting
      */
     protected String StrPars(String input) {
         StringBuilder output = new StringBuilder();
